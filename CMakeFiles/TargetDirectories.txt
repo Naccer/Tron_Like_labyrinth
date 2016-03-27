@@ -1,0 +1,11 @@
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP1/CMakeFiles/TP1_SDLtemplate.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP1/CMakeFiles/TP1_exo1_triangle_blanc.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP1/CMakeFiles/TP1_exo2_triangle_couleurs.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP1/CMakeFiles/TP1_exo3_structure_vertex.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP1/CMakeFiles/TP1_exo4_quad.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP2/CMakeFiles/TP2_SDLtemplate2.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP2/CMakeFiles/TP2_tp2.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP2/CMakeFiles/TP2_tp2_2.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP3/CMakeFiles/TP3_SDLtemplate3D.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/TP_template/CMakeFiles/TP_template_SDLtemplate.dir
+/home/2ins2/dsantana/Bureau/Deise/GLImac-Template/glimac/CMakeFiles/glimac.dir

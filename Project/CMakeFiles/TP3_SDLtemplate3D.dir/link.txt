@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/TP3_SDLtemplate3D.dir/SDLtemplate3D.cpp.o  -o TP3_SDLtemplate3D -rdynamic ../glimac/libglimac.a -Wl,-Bstatic -lSDLmain -Wl,-Bdynamic -lSDL -lpthread /usr/lib/x86_64-linux-gnu/libGL.so.1 -lGLEW 
